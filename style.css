@@ -1,0 +1,38 @@
+body{
+    background-color: palevioletred;
+    font-family: 'Fasthand', cursive;
+    
+}
+h2{
+    text-align: center;
+    font-size: 6em;
+}
+.centerdiv {
+    margin: auto;
+    width: 260px;
+    background-color:  pink;
+    padding: 20px;
+    border-radius: 25px;
+    height: 100px;
+  }
+  .centerdiv2 {
+    margin: auto;
+    width: 260px;
+    background-color: palevioletred;
+    padding: 20px;   
+  }
+  b{
+    font-size: 1em;
+  }
+  button{
+    background-color: lightpink;
+    border-radius: 10px;
+    padding: 6px;
+  }
+  p{
+    font-size: 1em;
+  }
+  .reload_butt{
+    position: absolute;
+    margin-top: 100px;
+  }
