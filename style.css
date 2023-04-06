@@ -1,7 +1,7 @@
 body{
     background-color: palevioletred;
-    font-family: 'Fasthand', cursive;
-    
+    /*font-family: 'Fasthand', cursive;*/
+    font-family: Arial, Helvetica, sans-serif;
 }
 h2{
     text-align: center;
